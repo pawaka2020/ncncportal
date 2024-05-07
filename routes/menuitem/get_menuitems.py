@@ -3,7 +3,7 @@ import justpy as jp
 from models.mongodb.db import db
 from models.mongodb.menuitem import MenuItem
 
-def get_menuitem():
+def get_menuitems():
     menuitems_list = list(db['menuitem'].find({}))
 
     result = [{
@@ -23,7 +23,7 @@ def get_menuitem():
 def serve_menuitem_image(request):
     print("TODO")
     filename = request.path_params["name"]
-    image_directory = 'static/images/menuitem/'
+    image_directory = 'images/menuitem/'
 
     with open(image_directory + filename, 'rb') as f:
         image_data = f.read()

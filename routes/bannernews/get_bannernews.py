@@ -15,7 +15,7 @@ def get_bannernews():
 
 def serve_bannernews_image(request):
     filename = request.path_params["name"]
-    image_directory = 'static/images/bannernews/'
+    image_directory = 'images/bannernews/'
 
     with open(image_directory + filename, 'rb') as f:
         image_data = f.read()

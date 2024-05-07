@@ -14,7 +14,7 @@ def get_fullnews():
 
 def serve_fullnews_image(request):
     filename = request.path_params["name"]
-    image_directory = 'static/images/fullnews/'
+    image_directory = 'images/fullnews/'
 
     with open(image_directory + filename, 'rb') as f:
         image_data = f.read()

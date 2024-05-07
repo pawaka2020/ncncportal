@@ -43,7 +43,7 @@
   "category": "Coffee",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 1,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -115,7 +115,7 @@
   "category": "Coffee",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 2,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -187,7 +187,7 @@
   "category": "Coffee",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 3,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -259,7 +259,7 @@
   "category": "Coffee",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 4,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -331,7 +331,7 @@
   "category": "Non-Coffee",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 5,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -413,7 +413,7 @@
   "category": "Appetizers",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 6,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -485,7 +485,7 @@
   "category": "Appetizers",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 7,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -577,7 +577,7 @@
   "category": "Snacks",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 8,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -649,7 +649,7 @@
   "category": "Snacks",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 9,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [
     {
       "name": "Supremo"
@@ -733,7 +733,7 @@
   "category": "Snacks",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 10,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [],
   "price": 10,
   "title": "Snack 3",
@@ -782,7 +782,7 @@
   "category": "Meals",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 11,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [],
   "price": 10,
   "title": "Food 1",
@@ -822,7 +822,7 @@
   "category": "Meals",
   "description": "A rich and bold blend that promises to keep you wide awake and invigorated. Crafted from premium, handpicked coffee beans, this dark roast boasts a robust flavor with deep, earthy undertones and a subtle hint of cocoa.",
   "id": 12,
-  "imagepath": "static/images/menuitem/coffeesample.png",
+  "imagepath": "images/menuitem/coffeesample.png",
   "ingredients": [],
   "price": 10,
   "title": "Food 2",
